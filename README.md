@@ -1,4 +1,4 @@
-**Game Name**: **PetTime Adventures***
+**Game Name**: **PetTime Adventures**
 
 ---
 # PetTime Adventures*
