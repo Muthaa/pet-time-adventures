@@ -1,7 +1,7 @@
 **Game Name**: **PetTime Adventures**
 
 ---
-# PetTime Adventures*
+# PetTime Adventures
 
 Welcome to **PetCare Adventure**, the interactive pet care game where you can adopt, care for, and grow a lovable virtual pet. Take care of your pet's needs by feeding, playing, and training, while keeping an eye on their hunger, happiness, and health. But beware, neglecting your pet too long might lead to them running away. Will you be a good pet parent? It's all up to you!
 
