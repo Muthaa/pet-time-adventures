@@ -5,6 +5,9 @@
 
 Welcome to **PetCare Adventure**, the interactive pet care game where you can adopt, care for, and grow a lovable virtual pet. Take care of your pet's needs by feeding, playing, and training, while keeping an eye on their hunger, happiness, and health. But beware, neglecting your pet too long might lead to them running away. Will you be a good pet parent? It's all up to you!
 
+![Windows PowerShell 17_04_2025 11_44_05](https://github.com/user-attachments/assets/17e2344e-0693-492c-991e-3d91f07c31ee)
+
+
 ## Features
 
 - **Adopt a Pet**: Start by adopting a new pet or continue your journey with a saved one.
@@ -12,6 +15,8 @@ Welcome to **PetCare Adventure**, the interactive pet care game where you can ad
 - **Random Events**: Enjoy random events like finding toys, making new friends, and more to spice up the game.
 - **Level Up**: As you take care of your pet, they'll gain XP and level up, unlocking new possibilities!
 - **Save and Load Progress**: Save your pet’s progress and come back to continue their adventure later.
+
+![Windows PowerShell 17_04_2025 11_44_05](https://github.com/user-attachments/assets/e6c64b3f-5fbc-4ecd-b00f-c27cfd7a2e5f)
 
 ## Gameplay
 
