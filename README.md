@@ -1,5 +1,3 @@
-# pet-time-adventures
-
 **Game Name**: **PetTime Adventures***
 
 ---
